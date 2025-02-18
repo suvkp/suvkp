@@ -1,3 +1,10 @@
+## Hi there 👋
+
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{suvkp}/count.svg" alt="Visitor's Count" />
+</div>
+
 - 👋 Hi, I’m Suvendu Pati
 - 👀 I’m interested in solving problems from various domains using data-driven approach
 - 💞️ I’m looking for opportunities where I can utilize my data modeling and storytelling skillset to make an impact
